@@ -1,0 +1,147 @@
+C:\Users\user\source\repos\MMCoffee\MMCoffee\bin\Debug\MMCoffee.exe.config
+C:\Users\user\source\repos\MMCoffee\MMCoffee\bin\Debug\MMCoffee.exe
+C:\Users\user\source\repos\MMCoffee\MMCoffee\bin\Debug\MMCoffee.pdb
+C:\Users\user\source\repos\MMCoffee\MMCoffee\bin\Debug\MMCoffee.xml
+C:\Users\user\source\repos\MMCoffee\MMCoffee\obj\Debug\MMCoffee.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\MMCoffee\MMCoffee\obj\Debug\MMCoffee.Resources.resources
+C:\Users\user\source\repos\MMCoffee\MMCoffee\obj\Debug\MMCoffee.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\MMCoffee\MMCoffee\obj\Debug\MMCoffee.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MMCoffee\MMCoffee\obj\Debug\MMCoffee.exe
+C:\Users\user\source\repos\MMCoffee\MMCoffee\obj\Debug\MMCoffee.xml
+C:\Users\user\source\repos\MMCoffee\MMCoffee\obj\Debug\MMCoffee.pdb
+C:\Users\user\source\repos\MMCoffee\MMCoffee\obj\Debug\MMCoffee.frmAdmin.resources
+C:\Users\user\source\repos\MMCoffee\MMCoffee\obj\Debug\MMCoffee.frmStok.resources
+C:\Users\user\source\repos\MMCoffee\MMCoffee\obj\Debug\MMCoffee.frmLhtProduk.resources
+C:\Users\user\source\repos\MMCoffee\MMCoffee\obj\Debug\MMCoffee.frmProduk.resources
+C:\Users\user\source\repos\MMCoffee\MMCoffee\obj\Debug\MMCoffee.frmLaporan.resources
+C:\Users\user\source\repos\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormDashboard.resources
+C:\Users\user\source\repos\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormLogin.resources
+C:\Users\user\source\repos\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FrmLogin1.resources
+C:\Users\user\source\repos\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormLaporanCashier.resources
+C:\Users\user\source\repos\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormTransaksi.resources
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\bin\Debug\MMCoffee.exe.config
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\bin\Debug\MMCoffee.exe
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\bin\Debug\MMCoffee.pdb
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\bin\Debug\MMCoffee.xml
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\obj\Debug\MMCoffee.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormDashboard.resources
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormLaporanCashier.resources
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormTransaksi.resources
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\obj\Debug\MMCoffee.Resources.resources
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\obj\Debug\MMCoffee.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\obj\Debug\MMCoffee.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\obj\Debug\MMCoffee.exe
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\obj\Debug\MMCoffee.xml
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\obj\Debug\MMCoffee.pdb
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormKonfirmasi.resources
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormLandingPage.resources
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormLihatProduk.resources
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormStok.resources
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormProduk.resources
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormLaporanAdmin.resources
+C:\Users\user\source\repos\MMCoffee baru\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormAdmin.resources
+D:\MMCoffee\MMCoffee\bin\Debug\MMCoffee.exe.config
+D:\MMCoffee\MMCoffee\bin\Debug\MMCoffee.exe
+D:\MMCoffee\MMCoffee\bin\Debug\MMCoffee.pdb
+D:\MMCoffee\MMCoffee\bin\Debug\MMCoffee.xml
+D:\MMCoffee\MMCoffee\obj\Debug\MMCoffee.vbproj.AssemblyReference.cache
+D:\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormDashboard.resources
+D:\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormKonfirmasi.resources
+D:\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormLaporanCashier.resources
+D:\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormLandingPage.resources
+D:\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormTransaksi.resources
+D:\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormLihatProduk.resources
+D:\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormStok.resources
+D:\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormProduk.resources
+D:\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormLaporanAdmin.resources
+D:\MMCoffee\MMCoffee\obj\Debug\MMCoffee.FormAdmin.resources
+D:\MMCoffee\MMCoffee\obj\Debug\MMCoffee.Resources.resources
+D:\MMCoffee\MMCoffee\obj\Debug\MMCoffee.vbproj.GenerateResource.cache
+D:\MMCoffee\MMCoffee\obj\Debug\MMCoffee.vbproj.CoreCompileInputs.cache
+D:\MMCoffee\MMCoffee\obj\Debug\MMCoffee.exe
+D:\MMCoffee\MMCoffee\obj\Debug\MMCoffee.xml
+D:\MMCoffee\MMCoffee\obj\Debug\MMCoffee.pdb
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\bin\Debug\MMCoffee.exe.config
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\bin\Debug\MMCoffee.exe
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\bin\Debug\MMCoffee.pdb
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\bin\Debug\MMCoffee.xml
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.vbproj.AssemblyReference.cache
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormDashboard.resources
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormKonfirmasi.resources
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormLaporanCashier.resources
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormLandingPage.resources
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormTransaksi.resources
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormLihatProduk.resources
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormStok.resources
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormProduk.resources
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormLaporanAdmin.resources
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormAdmin.resources
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.Resources.resources
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.vbproj.GenerateResource.cache
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.vbproj.CoreCompileInputs.cache
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.exe
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.xml
+D:\MMCoffee otw selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.pdb
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\bin\Debug\MMCoffee.exe.config
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\bin\Debug\MMCoffee.exe
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\bin\Debug\MMCoffee.pdb
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\bin\Debug\MMCoffee.xml
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.vbproj.AssemblyReference.cache
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormDashboard.resources
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormKonfirmasi.resources
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormLaporanCashier.resources
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormLandingPage.resources
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormTransaksi.resources
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormLihatProduk.resources
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormStok.resources
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormProduk.resources
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormLaporanAdmin.resources
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormAdmin.resources
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.Resources.resources
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.vbproj.GenerateResource.cache
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.vbproj.CoreCompileInputs.cache
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.exe
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.xml
+D:\MMCoffee sedikit lagi selesai\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.pdb
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\bin\Debug\MMCoffee.exe.config
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\bin\Debug\MMCoffee.exe
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\bin\Debug\MMCoffee.pdb
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\bin\Debug\MMCoffee.xml
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.vbproj.AssemblyReference.cache
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormDashboard.resources
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormKonfirmasi.resources
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormLaporanCashier.resources
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormLandingPage.resources
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormTransaksi.resources
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormLihatProduk.resources
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormStok.resources
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormProduk.resources
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormLaporanAdmin.resources
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormAdmin.resources
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.Resources.resources
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.vbproj.GenerateResource.cache
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.vbproj.CoreCompileInputs.cache
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.exe
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.xml
+D:\MMCoffee Bismillah Selesai ygy\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.pdb
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\bin\Debug\MMCoffee.exe.config
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\bin\Debug\MMCoffee.exe
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\bin\Debug\MMCoffee.pdb
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\bin\Debug\MMCoffee.xml
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.vbproj.AssemblyReference.cache
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormDashboard.resources
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormKonfirmasi.resources
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormLaporanCashier.resources
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormLandingPage.resources
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormTransaksi.resources
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormLihatProduk.resources
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormStok.resources
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormProduk.resources
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormLaporanAdmin.resources
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.FormAdmin.resources
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.Resources.resources
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.vbproj.GenerateResource.cache
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.vbproj.CoreCompileInputs.cache
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.exe
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.xml
+D:\MMCoffee Bismillah Selesai ygy y dong\MMCoffee Bismillah Selesai ygy\MMCoffee otw selesai\MMCoffee\obj\Debug\MMCoffee.pdb

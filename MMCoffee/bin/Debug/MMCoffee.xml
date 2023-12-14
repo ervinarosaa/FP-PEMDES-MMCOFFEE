@@ -1,0 +1,456 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MMCoffee
+</name>
+</assembly>
+<members>
+<member name="T:MMCoffee.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.business_report__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.business_report1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.business_report2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.coffee_bean">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.coffee_bean1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.coffee_bean2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.Dashboard">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.home_icon_silhouette">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.home2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.inventory__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.inventory_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.inventory1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.inventory2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.left_arrow_in_circular_button_black_symbol__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.log_out">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.log_out__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.log_out__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.logout1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.logout2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.previous">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MMCoffee.My.Resources.Resources.transaction">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet1.BRGDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet1.BRGRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet1.BRGRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet1TableAdapters.BRGTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:MMCoffee.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(MMCoffee.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:MMCoffee.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(MMCoffee.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:MMCoffee.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(MMCoffee.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:MMCoffee.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:MMCoffee.DataSet1TableAdapters.TableAdapterManager.UpdateAll(MMCoffee.DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet2.BRGDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet2.BRGRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet2.BRGRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet2TableAdapters.BRGTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:MMCoffee.DataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(MMCoffee.DataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:MMCoffee.DataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(MMCoffee.DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:MMCoffee.DataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(MMCoffee.DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:MMCoffee.DataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:MMCoffee.DataSet2TableAdapters.TableAdapterManager.UpdateAll(MMCoffee.DataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet3.BRGDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet3.BRGRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet3.BRGRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet3TableAdapters.BRGTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:MMCoffee.DataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(MMCoffee.DataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:MMCoffee.DataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(MMCoffee.DataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:MMCoffee.DataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(MMCoffee.DataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:MMCoffee.DataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:MMCoffee.DataSet3TableAdapters.TableAdapterManager.UpdateAll(MMCoffee.DataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:MMCoffee.DataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:MMCoffee.mmcoffeefix">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:MMCoffee.mmcoffeefix.MMCOFFEEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MMCoffee.mmcoffeefix.MMCOFFEERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MMCoffee.mmcoffeefix.MMCOFFEERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MMCoffee.mmcoffeefixTableAdapters.MMCOFFEETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MMCoffee.mmcoffeefixTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:MMCoffee.mmcoffeefixTableAdapters.TableAdapterManager.UpdateUpdatedRows(MMCoffee.mmcoffeefix,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:MMCoffee.mmcoffeefixTableAdapters.TableAdapterManager.UpdateInsertedRows(MMCoffee.mmcoffeefix,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:MMCoffee.mmcoffeefixTableAdapters.TableAdapterManager.UpdateDeletedRows(MMCoffee.mmcoffeefix,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:MMCoffee.mmcoffeefixTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:MMCoffee.mmcoffeefixTableAdapters.TableAdapterManager.UpdateAll(MMCoffee.mmcoffeefix)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:MMCoffee.mmcoffeefixTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:MMCoffee.mmcoffeefixTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:MMCoffee.mmkopi">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:MMCoffee.mmkopi.MMCOFFEEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MMCoffee.mmkopi.MMCOFFEERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MMCoffee.mmkopi.MMCOFFEERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MMCoffee.mmkopiTableAdapters.MMCOFFEETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MMCoffee.mmkopiTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:MMCoffee.mmkopiTableAdapters.TableAdapterManager.UpdateUpdatedRows(MMCoffee.mmkopi,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:MMCoffee.mmkopiTableAdapters.TableAdapterManager.UpdateInsertedRows(MMCoffee.mmkopi,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:MMCoffee.mmkopiTableAdapters.TableAdapterManager.UpdateDeletedRows(MMCoffee.mmkopi,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:MMCoffee.mmkopiTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:MMCoffee.mmkopiTableAdapters.TableAdapterManager.UpdateAll(MMCoffee.mmkopi)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:MMCoffee.mmkopiTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:MMCoffee.mmkopiTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
